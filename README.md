@@ -2,7 +2,7 @@
 This is used to initial the environment
 
 
-# make a symblic link to the local
+# make a symbolic link to the local
   example:
 
 sudo rsync -a /var/www/mgt/devbox/releases/current/htdocs/ /vagrant/htdocs/   
